@@ -1,0 +1,105 @@
+/**
+ *  Created on : Dec 20, 2024
+ *  Author     : Ahmed Hamoda Abdelhay Elhanafy
+*/
+
+/* General Styling */
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-font-size: 14px;
+    -fx-base: #f4f4f4;
+    -fx-control-inner-background: #ffffff;
+    -fx-accent: #0078d7;
+    -fx-focus-color: #0078d7;
+}
+
+
+.button {
+    -fx-background-color: linear-gradient(to bottom, #0078d7, #005a9e);
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-padding: 8 15;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(to bottom, #005a9e, #003f73);
+}
+
+.button:pressed {
+    -fx-background-color: linear-gradient(to bottom, #003f73, #002955);
+}
+
+/* TextFields */
+.text-field {
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+    -fx-border-color: #d1d1d1;
+    -fx-border-width: 1;
+    -fx-padding: 5 10;
+}
+
+.text-field:focused {
+    -fx-border-color: #0078d7;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-font-weight: 500;
+    -fx-text-fill: #333333;
+}
+
+.text-area {
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+    -fx-border-color: #d1d1d1;
+    -fx-border-width: 1;
+    -fx-padding: 5 10;
+}
+
+.text-area:focused {
+    -fx-border-color: #0078d7;
+}
+
+.tab-pane {
+    -fx-background-color: #ffffff;
+    -fx-border-color: transparent;
+}
+
+.tab {
+    -fx-background-color: #f4f4f4;
+    -fx-background-radius: 8;
+}
+
+.tab:selected {
+    -fx-background-color: #0078d7;
+    -fx-text-fill: white;
+}
+
+.grid-pane {
+    -fx-padding: 20;
+    -fx-hgap: 15;
+    -fx-vgap: 10;
+}
+
+.chart {
+    -fx-background-color: #ffffff;
+    -fx-legend-background: #f4f4f4;
+}
+
+.chart-title {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
+
+.axis-label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+}
+
+.axis {
+    -fx-tick-label-fill: #666666;
+    -fx-border-color: #d1d1d1;
+}
