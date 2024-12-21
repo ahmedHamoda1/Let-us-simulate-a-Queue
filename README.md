@@ -1,4 +1,4 @@
-# Queueing Models Simulation
+هو# Queueing Models Simulation
 
 #### *Author: Ahmed Hamoda Elhanafy*
 
@@ -97,4 +97,4 @@ Results:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For questions or feedback, please email Ahmed Hamoda Elhanafy at ahmdelhanafy50@gmail.com.
+For questions or feedback, please email me at ahmdelhanafy50@gmail.com.
