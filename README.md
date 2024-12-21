@@ -66,8 +66,8 @@ Results:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahmedHamoda1/queueing-models-simulation.git
-   cd queueing-models-simulation
+   git clone https://github.com/ahmedHamoda1/Let-us-simulate-a-Queue.git
+   cd Let-us-simulate-a-Queue
 2. Open the project in your IDE.
 
 3. Ensure the javafx-sdk is properly configured.
