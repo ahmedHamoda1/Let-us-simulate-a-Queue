@@ -66,7 +66,7 @@ Results:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/queueing-models-simulation.git
+   git clone https://github.com/ahmedHamoda1/queueing-models-simulation.git
    cd queueing-models-simulation
 2. Open the project in your IDE.
 
