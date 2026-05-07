@@ -1,4 +1,4 @@
-هو# Queueing Models Simulation
+# Queueing Models Simulation
 
 #### *Author: Ahmed Hamoda Elhanafy*
 
